@@ -1,0 +1,15 @@
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\bin\Debug\WPFPlayground.exe.config
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\bin\Debug\WPFPlayground.exe
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\bin\Debug\WPFPlayground.pdb
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\WPFPlayground.csproj.AssemblyReference.cache
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\MainWindow.g.cs
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\App.g.cs
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\WPFPlayground_MarkupCompile.cache
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\WPFPlayground_MarkupCompile.lref
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\MainWindow.baml
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\WPFPlayground.g.resources
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\WPFPlayground.Properties.Resources.resources
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\WPFPlayground.csproj.GenerateResource.cache
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\WPFPlayground.csproj.CoreCompileInputs.cache
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\WPFPlayground.exe
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\WPFPlayground.pdb
