@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\
 WPFPlayground
 none
 false
 DEBUG;TRACE
-D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\App.xaml
-1219584333
+D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\App.xaml
+11151548125
 
-6-793535042
-13-38814620
+61434861427
+13-1505183044
 MainWindow.xaml;
 
-False
+True
 
