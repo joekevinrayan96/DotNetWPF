@@ -1,19 +1,19 @@
 ﻿WPFPlayground
 
 
-winexe
+exe
 C#
 .cs
-D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\obj\Debug\
+D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\
 WPFPlayground
 none
 false
 DEBUG;TRACE
-D:\ExtraLearning\C#\.NET-WPF\WPFPlayground\App.xaml
-11151548125
+D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\App.xaml
+1219584333
 
-61434861427
-13-1505183044
+6-793535042
+13-38814620
 MainWindow.xaml;
 
 True
