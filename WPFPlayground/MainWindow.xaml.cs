@@ -18,11 +18,42 @@ namespace WPFPlayground
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// 
+
+    abstract class Animal
+    {
+        // Abstract method (does not have a body)
+        public abstract void animalSound();
+
+        public void move()
+        {
+            Console.WriteLine("I walk");
+        }
+        // Regular method
+        public void sleep()
+        {
+            Console.WriteLine("Zzz");
+        }
+    }
+
+    class Pig : Animal
+    {
+        public override void animalSound()
+        {
+            // The body of animalSound() is provided here
+            Console.WriteLine("The pig says: wee wee");
+        }
+    }
+
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
+
+            Pig myPig = new Pig(); // Create a Pig object
+            myPig.animalSound();  // Call the abstract method
+            myPig.sleep();  // Call the regular method
         }
 
         private void submitButton_Click(object sender, RoutedEventArgs e)
