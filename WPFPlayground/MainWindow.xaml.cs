@@ -18,11 +18,30 @@ namespace WPFPlayground
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// 
+
+    interface IAnimal
+    {
+        void animalSound(); // interface method (does not have a body)
+    }
+
+    class Pig : IAnimal
+    {
+        public void animalSound()
+        {
+            // The body of animalSound() is provided here
+            Console.WriteLine("The pig says: wee wee");
+        }
+    }
+
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
+
+            Pig myPig = new Pig();  // Create a Pig object
+            myPig.animalSound();
         }
 
         private void submitButton_Click(object sender, RoutedEventArgs e)
