@@ -20,17 +20,20 @@ namespace WPFPlayground
     /// </summary>
     /// 
 
-    interface IAnimal
+    public class BaseClass
     {
-        void animalSound(); // interface method (does not have a body)
+        public virtual void SomeMethod()
+        {
+            Console.WriteLine("In BaseClass.SomeMethod");
+        }
     }
 
-    class Pig : IAnimal
+    public class DerivedClass : BaseClass
     {
-        public void animalSound()
+        public override void SomeMethod()
         {
-            // The body of animalSound() is provided here
-            Console.WriteLine("The pig says: wee wee");
+            base.SomeMethod();
+            Console.WriteLine("In DerivedClass.SomeMethod");
         }
     }
 
@@ -40,8 +43,8 @@ namespace WPFPlayground
         {
             InitializeComponent();
 
-            Pig myPig = new Pig();  // Create a Pig object
-            myPig.animalSound();
+            DerivedClass d = new DerivedClass();
+            d.SomeMethod();
         }
 
         private void submitButton_Click(object sender, RoutedEventArgs e)
