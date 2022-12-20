@@ -1,4 +1,6 @@
 ﻿
-
-FD:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\MainWindow.xaml;;
+FD:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\App.xaml;;
+FD:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\Views\ShellView.xaml;;
+FD:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\Views\FirstChildView.xaml;;
+FD:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\Views\SecondChildView.xaml;;
 

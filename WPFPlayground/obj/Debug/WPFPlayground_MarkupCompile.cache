@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\App.xaml
-1219584333
+3-60038325
 
-51579654133
-13-38814620
-MainWindow.xaml;
+12798821591
+20433570916
+Views\FirstChildView.xaml;Views\SecondChildView.xaml;Views\ShellView.xaml;
 
 False
 
