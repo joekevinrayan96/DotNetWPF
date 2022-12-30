@@ -29,3 +29,5 @@ D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.csp
 D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.csproj.CoreCompileInputs.cache
 D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.exe
 D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.pdb
+D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\App.baml
+D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\GeneratedInternalTypeHelper.g.cs

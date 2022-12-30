@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPFPlayground.Extension;
 
 namespace WPFPlayground
 {
@@ -23,6 +24,11 @@ namespace WPFPlayground
         public MainWindow()
         {
             InitializeComponent();
+
+            int x = 2;
+
+            Console.WriteLine(x.DoubleIt());
+            Console.WriteLine(x.MultiplyByGivenValue(3));
         }
 
         private void submitButton_Click(object sender, RoutedEventArgs e)
@@ -30,7 +36,7 @@ namespace WPFPlayground
             //MessageBox.Show($"Hello {firstNameText.Text}");
             MessageBox.Show("Hello " + firstNameText.Text);
 
-            
+
         }
     }
 
