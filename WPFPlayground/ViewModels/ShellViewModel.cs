@@ -104,6 +104,7 @@ namespace WPFPlayground.ViewModels
         public void LoadPageTwo()
         {
             ActivateItemAsync(new SecondChildViewModel());
+
         }
 
 
