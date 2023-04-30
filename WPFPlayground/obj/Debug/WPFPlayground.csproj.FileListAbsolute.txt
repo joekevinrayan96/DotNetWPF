@@ -29,3 +29,28 @@ D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.csp
 D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.csproj.CoreCompileInputs.cache
 D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.exe
 D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.pdb
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.csproj.AssemblyReference.cache
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.csproj.SuggestedBindingRedirects.cache
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\MainWindow.g.cs
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\App.g.cs
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground_MarkupCompile.cache
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground_MarkupCompile.lref
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.exe
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.pdb
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\WPFPlayground.exe.config
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\WPFPlayground.exe
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\WPFPlayground.pdb
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\Newtonsoft.Json.dll
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\WebDriver.dll
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\WebDriver.Support.dll
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\Newtonsoft.Json.xml
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\MainWindow.baml
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.g.resources
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.Properties.Resources.resources
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.csproj.GenerateResource.cache
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.csproj.CoreCompileInputs.cache
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\WPFPlayground.csproj.CopyComplete
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\bin\Debug\SeleniumExtras.WaitHelpers.dll

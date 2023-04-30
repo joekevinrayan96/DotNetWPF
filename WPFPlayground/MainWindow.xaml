@@ -25,9 +25,9 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="20"/>
         </Grid.RowDefinitions>
-        <TextBlock Grid.Column="1" Grid.Row="1" FontSize="36" Text="Crash Course" Grid.ColumnSpan="3" Margin="0,0,0,10"/>
+        <!--<TextBlock Grid.Column="1" Grid.Row="1" FontSize="36" Text="Crash Course" Grid.ColumnSpan="3" Margin="0,0,0,10"/>
         <TextBlock Grid.Column="1" Grid.Row="2" FontWeight="Bold" Text="First Name"/>
         <TextBox x:Name="firstNameText" Grid.Column="2" Grid.Row="2" Width="150"/>
-        <Button x:Name="submitButton" Content="Run Me" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2" Margin="10" Click="submitButton_Click"/>
+        <Button x:Name="submitButton" Content="Run Me" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2" Margin="10" Click="submitButton_Click"/>-->
     </Grid>
 </Window>

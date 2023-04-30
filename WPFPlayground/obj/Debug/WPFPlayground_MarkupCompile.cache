@@ -4,16 +4,16 @@
 exe
 C#
 .cs
-D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\obj\Debug\
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\obj\Debug\
 WPFPlayground
 none
 false
 DEBUG;TRACE
-D:\.NET\DotNetWPF\Playground\DotNetWPF\WPFPlayground\App.xaml
+D:\Extra Learning\.NET-WPF\WPFPlayground\DotNetWPF\WPFPlayground\App.xaml
 1219584333
 
 51579654133
-13-38814620
+18-1420063022
 MainWindow.xaml;
 
 False
